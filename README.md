@@ -5,6 +5,9 @@ This contains the Module 19 challenge of the Rice Coding Bootcamp
 ## Main Site
 
 ![Main Site](assets/images/main-site-01.png)
+![Main Site](assets/images/main-site-02.png)
+![Main Site](assets/images/main-site-03.png)
+![Main Site](assets/images/main-site-04.png)
 
 ## Location of Repository
 
